@@ -1,12 +1,12 @@
 title: Hi 👋, I'm Anik Barua
 description: Collecting oysters from the sea
-show_downloads: true
-google_analytics: 
+show_downloads: false
+# google_analytics: 
 theme: jekyll-theme-cayman
 github:
   zip_url: http://example.com/download.zip
   another_url: another value
-  is_project_page: true
-  repository_name: aaaaa
+  is_project_page: false
+  repository_name: profile
   owner_url: https://github.com/anikjp
   owner_name: Anik Barua
